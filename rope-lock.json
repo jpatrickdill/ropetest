@@ -1,5 +1,5 @@
 {
-  "_main": {
+  "requires": {
     "emoji": {
       "owner": "jpatrickdill",
       "repo": "lua-emoji",
