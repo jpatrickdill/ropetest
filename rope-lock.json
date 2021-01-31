@@ -14,5 +14,6 @@
       "src_dir": "http",
       "import_name": "http"
     }
-  }
+  },
+  "subs": {}
 }
