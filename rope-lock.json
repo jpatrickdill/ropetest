@@ -1,0 +1,18 @@
+{
+  "_main": {
+    "emoji": {
+      "owner": "jpatrickdill",
+      "repo": "lua-emoji",
+      "tag": "64482f",
+      "src_dir": "emoji.lua",
+      "import_name": "emoji"
+    },
+    "http": {
+      "owner": "jpatrickdill",
+      "repo": "roblox-requests",
+      "tag": "0.5.1",
+      "src_dir": "http",
+      "import_name": "http"
+    }
+  }
+}
